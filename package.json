@@ -1,0 +1,30 @@
+{
+  "name": "piaic_assigments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMH73346/PIAIC_Assigments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMH73346/PIAIC_Assigments/issues"
+  },
+  "homepage": "https://github.com/SMH73346/PIAIC_Assigments#readme",
+  "dependencies": {
+    "@types/node": "^20.4.6",
+    "inquirer": "^8.2.6",
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
